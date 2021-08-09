@@ -3,7 +3,7 @@ const crypto = require('crypto');
 //first block
 let block = 1
 let text = "das ist ein test"
-let number = 1;
+let number = 0;
 let previous = "0000000000000000000000000000000000000000000000000000000000000000"
 
 
