@@ -1,6 +1,6 @@
 const john = 'john'
 
-const peter = 'peter'
+const peter = 'peter parker'
 
 const sayhello = (name) => {
     return `hello ${name}`
